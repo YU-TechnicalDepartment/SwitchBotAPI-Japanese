@@ -1,8 +1,8 @@
 # SwitchBot API v1.1
 
-- [Introduction](#introduction)
-- [About the New Version](#about-the-new-version)
-- [Getting Started](#getting-started)
+- [導入](#導入)
+- [新しいバージョンについて](#新しいバージョンについて)
+- [はじめに](#はじめに)
 - [Authentication](#authentication)
   * [Open Token and Secret Key](#open-token-and-secret-key)
   * [How to Sign?](#how-to-sign)
